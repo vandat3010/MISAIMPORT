@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\MISA.Import.Core.dll
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\MISA.Import.Infastructure.deps.json
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\MISA.Import.Infastructure.dll
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\ref\MISA.Import.Infastructure.dll
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\MISA.Import.Infastructure.pdb
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\bin\Debug\net5.0\MISA.Import.Core.pdb
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.dll
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\ref\MISA.Import.Infastructure.dll
+C:\Users\Admin\Desktop\misa-vueapp-m2-3103\MISA.Import.API\MISA.Import.Infastructure\obj\Debug\net5.0\MISA.Import.Infastructure.pdb
